@@ -16,7 +16,7 @@
 - :computer: I am a competitive programmer at `backend with .NET`, `frontend with React JS & Asp.NET`, `database with SQL Server & MySQL`.
 - :student: I’m currently learning `design patterns` and `automation`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity` conctact me!
+- :thinking: I’m currently open for a new `job opportunity` contact me!
 - :boom: You can visit [MY WEBSITE](https://portfolio-brayanhl.netlify.app).
 <br>
 
