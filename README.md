@@ -13,7 +13,7 @@
 - :school: I am a `Full Stack` - Developer & DBA
 - :trophy: 2 `Certs` <a href="https://www.credly.com/badges/7dea3702-3e99-4136-b2d5-ff607d64d323?source=linked_in_profile">  Azure Fundamentals % Cibersecurity Essentials<a/>.
 - :technologist: I love using Software as a solution for every `problem`.
-- :computer: I am a competitive programmer at `backend with .NET`, `frontend with Angular & Blazor`, `database with SQL Server & MySQL`.
+- :computer: I am a competitive programmer at `backend with .NET`, `frontend with Angular, React & Blazor`, `database with SQL Server & MySQL`.
 - :student: I’m currently learning `design patterns` and `automation`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity` contact me!
